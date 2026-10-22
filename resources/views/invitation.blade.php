@@ -150,7 +150,7 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
     <div style="display: flex; flex-direction: column; align-items: center; gap: 2px; font-family: 'Noto Serif Georgian', serif; font-size: 15px; font-weight: 500; letter-spacing: 0.14em; color: #DDBB76">
       <div data-anim="write" data-s="5.2" data-d="1.1" class="ln">ოჯახებთან ერთად</div>
       <div data-anim="write" data-s="6.3" data-d="1" class="ln">სიყვარულით გიწვევთ</div>
-      <div data-anim="write" data-s="7.3" data-d="0.8" class="ln">ჩვენს ქორწილზე</div>
+      <div data-anim="write" data-s="7.3" data-d="0.8" class="ln">ჩვენს ქორწილში</div>
     </div>
 
     <div style="display: flex; flex-direction: column; align-items: center; margin-top: 22px; font-family: 'Noto Serif Georgian', serif; font-weight: 300; line-height: 1.2">
@@ -174,8 +174,8 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
       <path pathLength="1" d="M60 5 L116 5"></path>
     </svg>
 
-    <div data-anim="write" data-s="17.4" data-d="1" class="ln" style="font-family: 'Noto Serif Georgian', serif; font-size: 18px; font-weight: 600; letter-spacing: 0.12em; color: #E6C784">ვილა „დი ფიორი“</div>
-    <div data-anim="write" data-s="18.5" data-d="1.5" class="ln" style="font-family: 'Noto Serif Georgian', serif; font-size: 15px; font-weight: 400; letter-spacing: 0.03em"><a class="map-link" href="https://www.google.com/maps/search/?api=1&amp;query=Villa+di+Fiori+Via+delle+Rose+12+Firenze" target="_blank" rel="noopener">ვია დელე როზე 12 · ფლორენცია, იტალია</a></div>
+    <div data-anim="write" data-s="17.4" data-d="1" class="ln" style="font-family: 'Noto Serif Georgian', serif; font-size: 18px; font-weight: 600; letter-spacing: 0.12em; color: #E6C784">„ბათუმის სახლი“</div>
+    <div data-anim="write" data-s="18.5" data-d="1.5" class="ln" style="font-family: 'Noto Serif Georgian', serif; font-size: 15px; font-weight: 400; letter-spacing: 0.03em"><a class="map-link" href="https://www.google.com/maps/search/?api=1&amp;query=%E1%83%91%E1%83%90%E1%83%97%E1%83%A3%E1%83%9B%E1%83%98%E1%83%A1+%E1%83%A1%E1%83%90%E1%83%AE%E1%83%9A%E1%83%98+Batumi+Parnavaz+Mepe+69" target="_blank" rel="noopener">ქ. ბათუმი, ფარნავაზის 69</a></div>
 
     <div data-anim="write" data-s="20.1" data-d="1.5" class="ln foil" style="margin-top: 16px; font-family: 'Noto Serif Georgian', serif; font-weight: 300; font-size: 19px; line-height: 1.3">ცერემონიის შემდეგ — საზეიმო სუფრა</div>
 
