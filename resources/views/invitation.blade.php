@@ -148,9 +148,8 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
     </div>
 
     <div style="display: flex; flex-direction: column; align-items: center; gap: 2px; font-family: 'Noto Serif Georgian', serif; font-size: 15px; font-weight: 500; letter-spacing: 0.14em; color: #DDBB76">
-      <div data-anim="write" data-s="5.2" data-d="1.1" class="ln">ოჯახებთან ერთად</div>
-      <div data-anim="write" data-s="6.3" data-d="1" class="ln">სიყვარულით გიწვევთ</div>
-      <div data-anim="write" data-s="7.3" data-d="0.8" class="ln">ჩვენს ქორწილში</div>
+      <div data-anim="write" data-s="5.2" data-d="1.6" class="ln">მადლობა, რომ ალამაზებთ</div>
+      <div data-anim="write" data-s="6.9" data-d="1.1" class="ln">ჩვენს დღეს</div>
     </div>
 
     <div style="display: flex; flex-direction: column; align-items: center; margin-top: 22px; font-family: 'Noto Serif Georgian', serif; font-weight: 300; line-height: 1.2">
