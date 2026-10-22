@@ -13,7 +13,7 @@
 @verbatim
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;family=Noto+Serif+Georgian:wght@400;500;600&amp;family=Pinyon+Script&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;family=Noto+Serif+Georgian:wght@300;400;500;600&amp;family=Pinyon+Script&amp;display=swap">
 <style>
 html,body{margin:0;height:100%;background:#2E050B}
 [hidden]{display:none !important}
@@ -142,21 +142,21 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
   <div style="position: absolute; left: 40px; right: 40px; top: 98px; display: flex; flex-direction: column; align-items: center; text-align: center">
 
     <div style="display: flex; align-items: center; gap: 4px; margin-bottom: 26px">
-      <div data-anim="write" data-s="3.6" data-d="0.5" class="ln foil" style="font-size: 46px; font-weight: 400; line-height: 1">O</div>
+      <div data-anim="write" data-s="3.6" data-d="0.5" class="ln foil" style="font-family: 'Noto Serif Georgian', serif; font-size: 42px; font-weight: 300; line-height: 1">ო</div>
       <svg data-anim="draw" data-s="4.1" data-d="0.45" data-pen="on" aria-hidden="true" width="4" height="52" fill="none" stroke="#D8B46C" stroke-width="1"><path pathLength="1" d="M2 1 L2 51"></path></svg>
-      <div data-anim="write" data-s="4.55" data-d="0.5" class="ln foil" style="font-size: 46px; font-weight: 400; line-height: 1">A</div>
+      <div data-anim="write" data-s="4.55" data-d="0.5" class="ln foil" style="font-family: 'Noto Serif Georgian', serif; font-size: 42px; font-weight: 300; line-height: 1">ა</div>
     </div>
 
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 2px; font-size: 13px; font-weight: 600; letter-spacing: 0.32em; text-transform: uppercase; color: #DDBB76">
-      <div data-anim="write" data-s="5.2" data-d="1.1" class="ln">Together with their families</div>
-      <div data-anim="write" data-s="6.3" data-d="1" class="ln">you are kindly invited</div>
-      <div data-anim="write" data-s="7.3" data-d="0.8" class="ln">to the wedding of</div>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 2px; font-family: 'Noto Serif Georgian', serif; font-size: 15px; font-weight: 500; letter-spacing: 0.14em; color: #DDBB76">
+      <div data-anim="write" data-s="5.2" data-d="1.1" class="ln">ოჯახებთან ერთად</div>
+      <div data-anim="write" data-s="6.3" data-d="1" class="ln">სიყვარულით გიწვევთ</div>
+      <div data-anim="write" data-s="7.3" data-d="0.8" class="ln">ჩვენს ქორწილზე</div>
     </div>
 
-    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 18px; font-family: 'Pinyon Script', 'Noto Serif Georgian', cursive; line-height: 1.05">
-      <div data-anim="write" data-s="8.3" data-d="1.7" class="ln foil" style="font-size: 88px">Olivia</div>
-      <div data-anim="write" data-s="10.1" data-d="0.6" class="ln" style="font-size: 34px; color: #DDBB76; margin-top: -8px; margin-bottom: -8px">and</div>
-      <div data-anim="write" data-s="10.8" data-d="2" class="ln foil" style="font-size: 82px">Alexander</div>
+    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 22px; font-family: 'Noto Serif Georgian', serif; font-weight: 300; line-height: 1.2">
+      <div data-anim="write" data-s="8.3" data-d="1.7" class="ln foil" style="font-size: 66px; letter-spacing: 0.02em">ოლივია</div>
+      <div data-anim="write" data-s="10.1" data-d="0.6" class="ln" style="font-size: 26px; font-weight: 400; color: #DDBB76; margin-top: -4px; margin-bottom: -4px">და</div>
+      <div data-anim="write" data-s="10.8" data-d="2" class="ln foil" style="font-size: 58px; letter-spacing: 0.02em">ალექსანდრე</div>
     </div>
 
     <svg data-anim="draw" data-s="12.9" data-d="0.8" data-w="0.6" data-pen="on" aria-hidden="true" width="280" height="16" fill="none" stroke="#D8B46C" stroke-width="1" style="margin-top: 20px">
@@ -165,19 +165,19 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
       <path pathLength="1" d="M152 8 L270 8"></path>
     </svg>
 
-    <div data-anim="write" data-s="13.6" data-d="0.6" class="ln" style="margin-top: 14px; font-size: 13px; font-weight: 600; letter-spacing: 0.5em; text-transform: uppercase">Sunday</div>
+    <div data-anim="write" data-s="13.6" data-d="0.6" class="ln" style="margin-top: 14px; font-family: 'Noto Serif Georgian', serif; font-size: 15px; font-weight: 500; letter-spacing: 0.3em">ორშაბათი</div>
     <div data-anim="write" data-s="14.3" data-d="1.5" class="ln foil" style="font-size: 50px; font-weight: 500; letter-spacing: 0.06em; line-height: 1.1">02 · 11 · 2026</div>
-    <div data-anim="write" data-s="15.9" data-d="0.8" class="ln" style="font-size: 13px; font-weight: 600; letter-spacing: 0.4em; text-transform: uppercase">at 16:00</div>
+    <div data-anim="write" data-s="15.9" data-d="0.8" class="ln" style="font-family: 'Noto Serif Georgian', serif; font-size: 15px; font-weight: 500; letter-spacing: 0.18em">16:00 საათზე</div>
 
     <svg data-anim="draw" data-s="16.8" data-d="0.6" data-w="0.7" data-pen="on" aria-hidden="true" width="120" height="10" fill="none" stroke="#D8B46C" stroke-width="1" style="margin-top: 16px; margin-bottom: 12px">
       <path pathLength="1" d="M60 5 L4 5"></path>
       <path pathLength="1" d="M60 5 L116 5"></path>
     </svg>
 
-    <div data-anim="write" data-s="17.4" data-d="1" class="ln" style="font-size: 17px; font-weight: 600; letter-spacing: 0.26em; text-transform: uppercase; color: #E6C784">Villa di Fiori</div>
-    <div data-anim="write" data-s="18.5" data-d="1.5" class="ln" style="font-size: 17px; font-style: italic; letter-spacing: 0.04em"><a class="map-link" href="https://www.google.com/maps/search/?api=1&amp;query=Villa+di+Fiori+Via+delle+Rose+12+Firenze" target="_blank" rel="noopener">Via delle Rose 12 · Firenze, Italy</a></div>
+    <div data-anim="write" data-s="17.4" data-d="1" class="ln" style="font-family: 'Noto Serif Georgian', serif; font-size: 18px; font-weight: 600; letter-spacing: 0.12em; color: #E6C784">ვილა „დი ფიორი“</div>
+    <div data-anim="write" data-s="18.5" data-d="1.5" class="ln" style="font-family: 'Noto Serif Georgian', serif; font-size: 15px; font-weight: 400; letter-spacing: 0.03em"><a class="map-link" href="https://www.google.com/maps/search/?api=1&amp;query=Villa+di+Fiori+Via+delle+Rose+12+Firenze" target="_blank" rel="noopener">ვია დელე როზე 12 · ფლორენცია, იტალია</a></div>
 
-    <div data-anim="write" data-s="20.1" data-d="1.5" class="ln foil" style="margin-top: 14px; font-family: 'Pinyon Script', 'Noto Serif Georgian', cursive; font-size: 34px; line-height: 1.2">reception to follow</div>
+    <div data-anim="write" data-s="20.1" data-d="1.5" class="ln foil" style="margin-top: 16px; font-family: 'Noto Serif Georgian', serif; font-weight: 300; font-size: 19px; line-height: 1.3">ცერემონიის შემდეგ — საზეიმო სუფრა</div>
 
     <svg data-anim="draw" data-s="21.7" data-d="0.9" data-w="0.6" data-pen="on" aria-hidden="true" width="140" height="24" fill="none" stroke="#D8B46C" stroke-width="1" stroke-linecap="round" style="margin-top: 8px">
       <path pathLength="1" d="M10 12 C30 2 50 2 70 12 C90 22 110 22 130 12"></path>
@@ -215,19 +215,19 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
     <div id="countdown" class="countdown" hidden style="position: absolute; left: 0; right: 0; bottom: 52px; display: flex; justify-content: center; gap: 20px; text-align: center">
         <div style="display: flex; flex-direction: column; align-items: center; min-width: 48px">
           <div class="foil" data-cd="d" style="font-size: 30px; font-weight: 500; line-height: 1">0</div>
-          <div style="margin-top: 5px; font-size: 11px; font-weight: 600; letter-spacing: 0.28em; text-transform: uppercase; color: #DDBB76">days</div>
+          <div style="margin-top: 5px; font-family: 'Noto Serif Georgian', serif; font-size: 12px; font-weight: 500; letter-spacing: 0.08em; color: #DDBB76">დღე</div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; min-width: 48px">
           <div class="foil" data-cd="h" style="font-size: 30px; font-weight: 500; line-height: 1">0</div>
-          <div style="margin-top: 5px; font-size: 11px; font-weight: 600; letter-spacing: 0.28em; text-transform: uppercase; color: #DDBB76">hours</div>
+          <div style="margin-top: 5px; font-family: 'Noto Serif Georgian', serif; font-size: 12px; font-weight: 500; letter-spacing: 0.08em; color: #DDBB76">საათი</div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; min-width: 48px">
           <div class="foil" data-cd="m" style="font-size: 30px; font-weight: 500; line-height: 1">0</div>
-          <div style="margin-top: 5px; font-size: 11px; font-weight: 600; letter-spacing: 0.28em; text-transform: uppercase; color: #DDBB76">min</div>
+          <div style="margin-top: 5px; font-family: 'Noto Serif Georgian', serif; font-size: 12px; font-weight: 500; letter-spacing: 0.08em; color: #DDBB76">წუთი</div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; min-width: 48px">
           <div class="foil" data-cd="s" style="font-size: 30px; font-weight: 500; line-height: 1">0</div>
-          <div style="margin-top: 5px; font-size: 11px; font-weight: 600; letter-spacing: 0.28em; text-transform: uppercase; color: #DDBB76">sec</div>
+          <div style="margin-top: 5px; font-family: 'Noto Serif Georgian', serif; font-size: 12px; font-weight: 500; letter-spacing: 0.08em; color: #DDBB76">წამი</div>
         </div>
     </div>
     <button type="button" class="replay icon-btn" id="replayBtn" hidden aria-label="თავიდან ნახვა" title="თავიდან ნახვა" style="position: absolute; left: 42px; top: 42px; width: 44px; height: 44px; border-radius: 999px; border: 1px solid rgba(221, 187, 118, 0.55); background: rgba(74, 6, 15, 0.5); color: #EBD08F; display: flex; align-items: center; justify-content: center; z-index: 15">
@@ -281,7 +281,7 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
         <path d="M40 3 C50 3 54 9 62 10 C72 12 74 22 76 30 C79 38 76 46 77 52 C76 63 66 68 60 72 C52 77 46 76 40 77 C32 78 24 75 18 70 C10 64 4 56 4 46 C3 38 6 30 8 24 C12 14 20 10 28 6 C33 4 36 3 40 3 Z" fill="url(#sealG)"></path>
         <circle cx="40" cy="40" r="27" fill="none" stroke="#7A531C" stroke-opacity="0.6" stroke-width="1.2"></circle>
         <circle cx="40" cy="40" r="23" fill="none" stroke="#7A531C" stroke-opacity="0.35" stroke-width="0.6" stroke-dasharray="1 2.4"></circle>
-        <text x="40" y="48" text-anchor="middle" font-family="Pinyon Script, cursive" font-size="24" fill="#6B4515">O&amp;A</text>
+        <text x="40" y="47" text-anchor="middle" font-family="Noto Serif Georgian, serif" font-weight="500" font-size="19" fill="#6B4515">ო&amp;ა</text>
       </svg>
     </div>
     <div class="gate-content" style="position: absolute; left: 50px; right: 50px; top: 230px; padding: 40px 20px 36px; background-color: #560A14; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 22px">
