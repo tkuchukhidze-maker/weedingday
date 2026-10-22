@@ -139,12 +139,15 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
     </svg>
   </div>
 
-  <div style="position: absolute; left: 40px; right: 40px; top: 98px; display: flex; flex-direction: column; align-items: center; text-align: center">
+  <div style="position: absolute; left: 40px; right: 40px; top: 84px; display: flex; flex-direction: column; align-items: center; text-align: center">
 
-    <div style="display: flex; align-items: center; gap: 4px; margin-bottom: 26px">
-      <div data-anim="write" data-s="3.6" data-d="0.5" class="ln foil" style="font-family: 'Noto Serif Georgian', serif; font-size: 42px; font-weight: 300; line-height: 1">ო</div>
-      <svg data-anim="draw" data-s="4.1" data-d="0.45" data-pen="on" aria-hidden="true" width="4" height="52" fill="none" stroke="#D8B46C" stroke-width="1"><path pathLength="1" d="M2 1 L2 51"></path></svg>
-      <div data-anim="write" data-s="4.55" data-d="0.5" class="ln foil" style="font-family: 'Noto Serif Georgian', serif; font-size: 42px; font-weight: 300; line-height: 1">ა</div>
+    <div style="position: relative; width: 236px; height: 156px; margin-bottom: 16px">
+      <img data-anim="fade" data-s="4.3" data-d="1.5" src="/images/couple.webp" alt="ოლივია და ალექსანდრე" style="position: absolute; left: 14px; top: 12px; width: 208px; height: 132px; object-fit: cover; border-radius: 50%">
+      <svg data-anim="draw" data-s="3.3" data-d="1.6" data-w="0.6" data-pen="on" aria-hidden="true" width="236" height="156" viewBox="0 0 236 156" fill="none" stroke="#D8B46C" stroke-linejoin="round" style="position: absolute; left: 0; top: 0; overflow: visible">
+        <path pathLength="1" stroke-width="1.2" d="M118 4 A114 74 0 1 1 117.99 4 Z"></path>
+        <path pathLength="1" stroke-width="0.6" stroke-opacity="0.75" d="M118 10 A108 68 0 1 1 117.99 10 Z"></path>
+        <path pathLength="1" stroke-width="1" d="M118 148 L123 154 L118 160 L113 154 Z"></path>
+      </svg>
     </div>
 
     <div style="display: flex; flex-direction: column; align-items: center; gap: 2px; font-family: 'Noto Serif Georgian', serif; font-size: 15px; font-weight: 500; letter-spacing: 0.14em; color: #DDBB76">
@@ -152,7 +155,7 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
       <div data-anim="write" data-s="6.9" data-d="1.1" class="ln">ჩვენს დღეს</div>
     </div>
 
-    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 22px; font-family: 'Noto Serif Georgian', serif; font-weight: 300; line-height: 1.2">
+    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 14px; font-family: 'Noto Serif Georgian', serif; font-weight: 300; line-height: 1.2">
       <div data-anim="write" data-s="8.3" data-d="1.7" class="ln foil" style="font-size: 66px; letter-spacing: 0.02em">ოლივია</div>
       <div data-anim="write" data-s="10.1" data-d="0.6" class="ln" style="font-size: 26px; font-weight: 400; color: #DDBB76; margin-top: -4px; margin-bottom: -4px">და</div>
       <div data-anim="write" data-s="10.8" data-d="2" class="ln foil" style="font-size: 58px; letter-spacing: 0.02em">ალექსანდრე</div>
