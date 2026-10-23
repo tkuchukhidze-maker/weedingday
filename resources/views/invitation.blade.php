@@ -142,10 +142,31 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
   <div style="position: absolute; left: 40px; right: 40px; top: 84px; display: flex; flex-direction: column; align-items: center; text-align: center">
 
     <div style="position: relative; width: 236px; height: 156px; margin-bottom: 16px">
-      <img data-anim="fade" data-s="4.3" data-d="1.5" src="/images/couple.webp" alt="ოლივია და ალექსანდრე" style="position: absolute; left: 14px; top: 12px; width: 208px; height: 132px; object-fit: cover; border-radius: 50%">
-      <svg data-anim="draw" data-s="3.3" data-d="1.6" data-w="0.6" data-pen="on" aria-hidden="true" width="236" height="156" viewBox="0 0 236 156" fill="none" stroke="#D8B46C" stroke-linejoin="round" style="position: absolute; left: 0; top: 0; overflow: visible">
+      <svg data-anim="draw" data-s="3" data-d="2.5" data-w="0.3" data-pen="on" role="img" aria-label="ოლივია და ალექსანდრე" width="236" height="156" viewBox="0 0 236 156" fill="none" stroke="#D8B46C" stroke-linecap="round" stroke-linejoin="round" style="position: absolute; left: 0; top: 0; overflow: visible">
+        <defs><clipPath id="ovalClip"><ellipse cx="118" cy="78" rx="106" ry="66"></ellipse></clipPath></defs>
         <path pathLength="1" stroke-width="1.2" d="M118 4 A114 74 0 1 1 117.99 4 Z"></path>
         <path pathLength="1" stroke-width="0.6" stroke-opacity="0.75" d="M118 10 A108 68 0 1 1 117.99 10 Z"></path>
+        <g clip-path="url(#ovalClip)" stroke-width="1.15">
+          <path pathLength="1" d="M101 50 C104 56 105 62 108 67 C110 70 113 72 114 75 C114.5 77 112 78 111 79 C112 81 115 82 116.5 84 C117 86 115.5 87 114 87.5 C115 89 116 90.5 115 92 C113 95 111 97 111 101 C110 105 104 107 98 106"></path>
+          <path pathLength="1" d="M98 106 C95 112 94 118 95 126 C96 134 100 142 104 150"></path>
+          <path pathLength="1" d="M101 50 C98 42 90 37 82 39 C76 34 66 36 63 43 C56 45 53 53 56 59 C51 64 53 72 58 75 C57 82 62 88 68 88 C70 94 76 98 82 97"></path>
+          <path pathLength="1" d="M70 44 C74 41 79 42 81 46 M62 54 C65 50 71 51 72 55 M60 66 C63 62 69 63 69 67 M64 78 C67 74 72 76 72 79"></path>
+          <path pathLength="1" d="M86 76 C82 72 77 74 78 80 C79 85 84 87 87 84"></path>
+          <path pathLength="1" d="M103 63 C105 64.5 107 64.5 108.5 63.5"></path>
+          <path pathLength="1" stroke-width="0.8" d="M104 98 C106 101 106 103 104 105 M100 95 C102 98 102 101 100 103 M108 92 C110 95 110 97 108.5 99"></path>
+          <path pathLength="1" d="M95 126 C86 128 76 132 66 140 C60 145 56 150 54 156"></path>
+          <path pathLength="1" stroke-width="0.9" d="M62 146 L82 132 M68 152 L90 136 M76 156 L95 141"></path>
+          <path pathLength="1" d="M127.5 68 C127 69 126.5 69.5 126 70 C124 72 121.5 73.5 121 75.5 C120.5 77.5 122.5 78.5 123.5 79.5 C122 81.5 120 82.5 119.5 84.5 C119.5 86 121 87 122 87.5 C121 89 120.5 91 121.5 92.5 C123 95 125 97 126 100 C127 103 130 104 133 104"></path>
+          <path pathLength="1" d="M133 104 C135 110 137 116 138 124 C139 132 142 142 146 150"></path>
+          <path pathLength="1" d="M125 67 C127 68.5 129.5 68.5 131 67"></path>
+          <path pathLength="1" d="M138 124 C150 126 166 130 180 140 C188 146 192 151 194 156"></path>
+          <path pathLength="1" stroke-width="0.9" d="M150 128 C154 136 160 141 166 143 C170 138 172 134 172 130"></path>
+          <path pathLength="1" d="M140 77 C150 82 156 92 158 104 C159 118 164 130 172 138 M154 82 C164 88 168 98 170 110 C171 120 176 128 184 132"></path>
+          <path pathLength="1" stroke-width="1.3" d="M110.8 48.1 A58 14 18 1 1 221.2 83.9 A58 14 18 1 1 110.8 48.1 Z"></path>
+          <path pathLength="1" d="M141 58 C139 37 156 29 168 31 C182 33 193 47 191 74"></path>
+          <path pathLength="1" stroke-width="0.9" d="M141 55 C157 60 175 66 191 71"></path>
+          <path pathLength="1" stroke-width="0.6" stroke-opacity="0.7" d="M120 54 C150 62 186 75 214 84"></path>
+        </g>
         <path pathLength="1" stroke-width="1" d="M118 148 L123 154 L118 160 L113 154 Z"></path>
       </svg>
     </div>
