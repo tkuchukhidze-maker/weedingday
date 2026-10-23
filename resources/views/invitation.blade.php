@@ -142,7 +142,7 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
   <div style="position: absolute; left: 40px; right: 40px; top: 84px; display: flex; flex-direction: column; align-items: center; text-align: center">
 
     <div style="position: relative; width: 236px; height: 156px; margin-bottom: 16px">
-      <svg data-anim="draw" data-s="3" data-d="2.5" data-w="0.3" data-pen="on" role="img" aria-label="ოლივია და ალექსანდრე" width="236" height="156" viewBox="0 0 236 156" fill="none" stroke="#D8B46C" stroke-linecap="round" stroke-linejoin="round" style="position: absolute; left: 0; top: 0; overflow: visible">
+      <svg data-anim="draw" data-s="3" data-d="2.5" data-w="0.3" data-pen="on" role="img" aria-label="ამირანი და სოფო" width="236" height="156" viewBox="0 0 236 156" fill="none" stroke="#D8B46C" stroke-linecap="round" stroke-linejoin="round" style="position: absolute; left: 0; top: 0; overflow: visible">
         <defs><clipPath id="ovalClip"><ellipse cx="118" cy="78" rx="106" ry="66"></ellipse></clipPath></defs>
         <path pathLength="1" stroke-width="1.2" d="M118 4 A114 74 0 1 1 117.99 4 Z"></path>
         <path pathLength="1" stroke-width="0.6" stroke-opacity="0.75" d="M118 10 A108 68 0 1 1 117.99 10 Z"></path>
@@ -177,9 +177,9 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
     </div>
 
     <div style="display: flex; flex-direction: column; align-items: center; margin-top: 14px; font-family: 'Noto Serif Georgian', serif; font-weight: 300; line-height: 1.2">
-      <div data-anim="write" data-s="8.3" data-d="1.7" class="ln foil" style="font-size: 66px; letter-spacing: 0.02em">ოლივია</div>
+      <div data-anim="write" data-s="8.3" data-d="1.7" class="ln foil" style="font-size: 66px; letter-spacing: 0.02em">ამირანი</div>
       <div data-anim="write" data-s="10.1" data-d="0.6" class="ln" style="font-size: 26px; font-weight: 400; color: #DDBB76; margin-top: -4px; margin-bottom: -4px">და</div>
-      <div data-anim="write" data-s="10.8" data-d="2" class="ln foil" style="font-size: 58px; letter-spacing: 0.02em">ალექსანდრე</div>
+      <div data-anim="write" data-s="10.8" data-d="2" class="ln foil" style="font-size: 66px; letter-spacing: 0.02em">სოფო</div>
     </div>
 
     <svg data-anim="draw" data-s="12.9" data-d="0.8" data-w="0.6" data-pen="on" aria-hidden="true" width="280" height="16" fill="none" stroke="#D8B46C" stroke-width="1" style="margin-top: 20px">
@@ -304,7 +304,7 @@ a{color:#E9CF92}a:hover{color:#F6E3B0}
         <path d="M40 3 C50 3 54 9 62 10 C72 12 74 22 76 30 C79 38 76 46 77 52 C76 63 66 68 60 72 C52 77 46 76 40 77 C32 78 24 75 18 70 C10 64 4 56 4 46 C3 38 6 30 8 24 C12 14 20 10 28 6 C33 4 36 3 40 3 Z" fill="url(#sealG)"></path>
         <circle cx="40" cy="40" r="27" fill="none" stroke="#7A531C" stroke-opacity="0.6" stroke-width="1.2"></circle>
         <circle cx="40" cy="40" r="23" fill="none" stroke="#7A531C" stroke-opacity="0.35" stroke-width="0.6" stroke-dasharray="1 2.4"></circle>
-        <text x="40" y="47" text-anchor="middle" font-family="Noto Serif Georgian, serif" font-weight="500" font-size="19" fill="#6B4515">ო&amp;ა</text>
+        <text x="40" y="47" text-anchor="middle" font-family="Noto Serif Georgian, serif" font-weight="500" font-size="19" fill="#6B4515">ა&amp;ს</text>
       </svg>
     </div>
     <div class="gate-content" style="position: absolute; left: 50px; right: 50px; top: 230px; padding: 40px 20px 36px; background-color: #560A14; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 22px">
